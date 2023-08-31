@@ -1,0 +1,2 @@
+D:\SimpliLearn Course\Phase2 Training\Assisted Projects\AssistedProjects12\AssistedProject_12\AssistedProject_12\obj\Debug\AssistedProject_12.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Phase2 Training\Assisted Projects\AssistedProjects12\AssistedProject_12\AssistedProject_12\obj\Debug\AssistedProject_12.csproj.CoreCompileInputs.cache
